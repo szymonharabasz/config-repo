@@ -1,0 +1,2 @@
+polar:
+  greeting: "Welcome to the order service from a config server"
